@@ -1,0 +1,14 @@
+{
+    "flight": [
+        {
+            "airlines":"Air India",
+            "origin":"",
+            "destination":"",
+            "departure-time":"",
+            "arrival-time":"",
+            "flight-time":"",
+            "travel-time":"",
+            
+        }
+            ]
+}
